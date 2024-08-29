@@ -1,10 +1,16 @@
 body {
-    background-color: aqua;
+    background-color: #00ffff;
     color: black;
     font-family: "Sevillana", cursive;
     display:flex ;
     justify-content: center;
     align-items: center;  
     height: 700px;
-      
+    margin: 0;     
+}
+
+button{
+    background-color: antiquewhite;
+    color: white;
+    font-family: "Sevillana", cursive;
 }
