@@ -1,4 +1,10 @@
 body {
     background-color: aqua;
-    color: white;
+    color: black;
+    font-family: "Sevillana", cursive;
+    display:flex ;
+    justify-content: center;
+    align-items: center;  
+    height: 700px;
+      
 }
