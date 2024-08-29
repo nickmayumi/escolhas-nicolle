@@ -1,7 +1,7 @@
 body {
     background-color: #00ffff;
     color: black;
-    font-family: "Sevillana", cursive;
+    font-family: "SUSE", sans-serif;
     display:flex ;
     justify-content: center;
     align-items: center;  
@@ -12,5 +12,4 @@ body {
 button{
     background-color: antiquewhite;
     color: white;
-    font-family: "Sevillana", cursive;
-}
+    font-family: "SUSE", sans-serif;
